@@ -1,5 +1,5 @@
 # sCache_PC3
-Manuscript: Chemoreceptor family in plant-associated bacteria that responds preferentially to the plant signal molecule glycerol 3-phosphate.
+Source code and dataset for the manuscript: Chemoreceptor family in plant-associated bacteria that responds preferentially to the plant signal molecule glycerol 3-phosphate.
 
 ### PacP-alphafold.pdb
 AlphaFold2 model for PacP Cache domain (default parameters).
