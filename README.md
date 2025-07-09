@@ -39,3 +39,5 @@ All members of sCache_PC3 before CD-HIT.
 
 ### ITC data.docx
 Additional ITC studies of binding of different compounds to ligand binding domains of receptors.
+
+This project is licensed under the MIT License.
